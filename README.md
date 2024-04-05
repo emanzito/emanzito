@@ -1,6 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emanzito&label=Profile%20views&color=0e75b6&style=flat" alt="emanzito" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nochscobar" target="blank"><img src="https://img.shields.io/twitter/follow/nochscobar?logo=twitter&style=for-the-badge" alt="nochscobar" /></a> </p>
 
 - 🌱 I’m currently learning **Java script & Python**
 
