@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emanzito&label=Profile%20views&color=0e75b6&style=flat" alt="emanzito" /> </p>
 
 
-- 🌱 I’m currently learning **Java script & Python**
+- 🌱 I’m currently learning **Java script**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
